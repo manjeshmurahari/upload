@@ -22,7 +22,7 @@ public class Excel2DatabaseTest {
       //  String jdbcURL = "jdbc:mysql://localhost:3306/sales";
         String jdbcURL = "jdbc:mysql://localhost:3306/generic?createDatabaseIfNotExist=true";
         String username = "root";
-        String password = "2illie@123";
+        String password = "*****@123";
  
         String excelFilePath = "F:/Email data.xls";
  
