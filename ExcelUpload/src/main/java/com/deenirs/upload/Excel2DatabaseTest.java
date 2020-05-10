@@ -26,7 +26,7 @@ public class Excel2DatabaseTest {
  
         String excelFilePath = "F:/Email data.xls";
  
-        int batchSize = 10;
+        int batchSize = 100;
  
         Connection connection = null;
  
